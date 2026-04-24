@@ -1,0 +1,5 @@
+LLMs can generate confident but incorrect information, a phenomenon known as hallucination. In 
+agentic systems, hallucinations in planning or reasoning can cascade into significant task failures. 
+Mitigation strategies include RAG, self-reflection, and output verification. 
+7.2 Long-Horizon Task Failures 
+Current agentic systems struggle with tasks requiring many sequential steps. Small errors in
